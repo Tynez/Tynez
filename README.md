@@ -47,7 +47,9 @@ Here are some ideas to get you started:
 
 
 ## Get in touch
-![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/alextynez/&link=https://www.linkedin.com/in/alextynez/)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&labelColor=1DA1F2&logoColor=white&link=https://www.linkedin.com/in/alextynez/&link=https://www.linkedin.com/in/alextynez/)
-![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&labelColor=1769FF&link=https://www.behance.net/alextynez&link=https://www.behance.net/alextynez)
-![Gmail](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&labelColor=white&link=mailto:alejandro.mtnez13@gmail.com&link=mailto:alejandro.mtnez13@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/alextynez/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&labelColor=1DA1F2&logoColor=white)](https://www.linkedin.com/in/alextynez/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&labelColor=1769FF)](https://www.behance.net/alextynez)
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&labelColor=white)](mailto:alejandro.mtnez13@gmail.com)
+
+
