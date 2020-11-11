@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## Github stats
 [![Tynez's github stats](https://github-readme-stats.vercel.app/api?username=Tynez&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tynez)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tynez)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Get in touch
