@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&color=61DAFB)](#)
 
 ### Backend
-[![](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&color=007396)](#)
 [![](https://img.shields.io/badge/Node-339933?style=flat&logo=node.js&logoColor=white&color=339933)](#)
 
 ### Databases
