@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&color=E34F26)](#)
 [![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=html5&logoColor=white&color=1572B6)](#)
 [![](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white&color=CC6699)](#)
-[![](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white&color=563D7C)](#)
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&color=F7DF1E)](#)
 [![](https://img.shields.io/badge/Typescript-007ACC?style=flat&logo=typescript&logoColor=white&color=007ACC)](#)
 [![](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white&color=DD0031)](#)
 [![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&color=61DAFB)](#)
 
-### Backend
+### Backend 
 [![](https://img.shields.io/badge/Node-339933?style=flat&logo=node.js&logoColor=white&color=339933)](#)
+[![](https://img.shields.io/badge/NestJs-339933?style=flat&logo=nestjs&logoColor=white&color=ea2845)](#)
 
 ### Databases
 [![](https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white&color=4479A1)](#)
